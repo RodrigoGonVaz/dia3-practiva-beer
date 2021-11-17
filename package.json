@@ -2,12 +2,12 @@
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "hbs": "^4.2.0"
+    "hbs": "^4.2.0",
+    "punkapi-javascript-wrapper": "^1.0.2"
   },
   "name": "practica-cerveza",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
