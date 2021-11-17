@@ -1,0 +1,4 @@
+# Ignora los archivos para que no se suban al git y github
+node_modules/
+.env
+package-lock.json
